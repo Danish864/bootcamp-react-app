@@ -1,0 +1,8 @@
+Step 1 : created bootcamp folder
+Step 2 : created react app with npx create-react-app (your desired project name)
+Step 3 : Run (npm start) (yarn start) to run app in localhost in your browser
+Step 4 : if you want to change aything you need to open code vs.Go to react app folder and open vs code from there by typing command(code .)
+Step 5 : React me src folder me coding ha, index.js or app.js coding folders han... 
+Step 6 : To deploy on Surge , run in react folder surge ./build
+Step 7 : next we are uploading our code to github, so open github and add local folder in github app
+step 8 : in Github make action file and write steps to automate all task.
